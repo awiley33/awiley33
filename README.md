@@ -1,7 +1,7 @@
 ## Hi 🤗  I'm Anna 
 A little about me...
 
-- 😄 she/her pronouns
+- 👋 I use she/her pronouns
 - 🎓 [@turingschool](https://github.com/turingschool) alumna
 - 🔎 Looking for open source projects to collaborate on
 - 🌱 Currently learning Python
