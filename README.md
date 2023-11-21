@@ -2,12 +2,12 @@
 A little about me...
 
 - 😄 she/her pronouns
-- 📍 Bloomington, IL
 - 🎓 @turingschool alum
 - 🔎 Looking for open source projects to collaborate on
 - 🌱 Currently learning Python
 - 🌍 Fun fact: I have lived in France and Germany 🥐 🥨
 - 💌 Reach me at awiley33@gmail.com
+- 📁 View my [portfolio](https://terminal.turing.edu/alumni/1979-anna-wiley)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awiley33&show_icons=true&theme=rose&hide=stars&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
