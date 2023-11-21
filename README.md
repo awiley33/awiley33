@@ -2,16 +2,14 @@
 A little about me...
 
 - 😄 she/her pronouns
-- 🎓 @turingschool alum
 - 📍 Bloomington, IL
-- 👯 I’m looking for open source projects to collaborate on
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Reach me at awiley33@gmail.com
-
+- 🎓 @turingschool alum
+- 🔎 Looking for open source projects to collaborate on
+- 🌱 Currently learning Python
 - 🌍 Fun fact: I have lived in France and Germany 🥐 🥨
+- 💌 Reach me at awiley33@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awiley33&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awiley33&show_icons=true&theme=rose&hide=stars&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 PUT NOT QUITE READY THINGS IN HERE:
