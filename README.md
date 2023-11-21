@@ -2,7 +2,7 @@
 A little about me...
 
 - 😄 she/her pronouns
-- 🎓 @turingschool alum
+- 🎓 [@turingschool](https://github.com/turingschool) alumna
 - 🔎 Looking for open source projects to collaborate on
 - 🌱 Currently learning Python
 - 🌍 Fun fact: I have lived in France and Germany 🥐 🥨
