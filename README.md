@@ -1,4 +1,12 @@
-## Hi 🤗  I'm Anna 
+```
+                  .    .                           .     .    
+     /           /    /                           /     /  __ 
+    /-.   .-.   /    / .-._.  `)    (  .-._.).--./ .-../  |  /
+   /   |./.-'_ /    / (   )   /  .   )(   )/    / (   /   |_/ 
+_.'    |(__.'_/_.-_/_.-`-'   (_.' `-'  `-'/   _/_.-`-'-...-.  
+                                                         `-'  
+```
+## I'm Anna 🤗
 A little about me...
 
 - 👋 I use she/her pronouns
@@ -8,7 +16,7 @@ A little about me...
 - 🌍 Fun fact: I have lived in France and Germany 🥐 🥨
 - 💌 Reach me at awiley33@gmail.com
 - 📁 View my [portfolio](https://terminal.turing.edu/alumni/1979-anna-wiley)
-
+## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awiley33&show_icons=true&theme=rose&hide=stars&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
