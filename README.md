@@ -9,7 +9,7 @@ A little about me...
 
 - 👋 I use she/her pronouns
 - 🎓 [@turingschool](https://github.com/turingschool) alumna
-- 🔎 Looking for open source projects to collaborate on
+- 🔎 Looking for open source projects to collaborate on... and a job!
 - 🌍 Fun fact: I have lived in France and Germany 🥐 🥨
 - 💌 Reach me at awiley33@gmail.com
 - 📁 View my [portfolio](https://terminal.turing.edu/alumni/1979-anna-wiley)
