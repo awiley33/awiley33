@@ -13,8 +13,6 @@ A little about me...
 - 🌍 Fun fact: I have lived in France and Germany 🥐 🥨
 - 💌 Reach me at awiley33@gmail.com
 - 📁 View my [portfolio](https://terminal.turing.edu/alumni/1979-anna-wiley)
-## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awiley33&show_icons=true&theme=rose&hide=stars&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 PUT NOT QUITE READY THINGS IN HERE:
