@@ -12,7 +12,6 @@ A little about me...
 - :briefcase: I work on the dev team at Volie
 - 🌍 Fun fact: I have lived in France and Germany 🥐 🥨
 - 💌 Reach me at awiley33@gmail.com
-- 📁 View my [portfolio](https://terminal.turing.edu/alumni/1979-anna-wiley)
 
 <!--
 PUT NOT QUITE READY THINGS IN HERE:
